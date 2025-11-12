@@ -50,7 +50,7 @@ public class Book {
         System.out.println("Price after discount: $" + price);
     }
 
-    // Main method for testing
+   
     public static void main(String[] args) {
         Book b = new Book();
 
@@ -68,3 +68,4 @@ public class Book {
         b.displayInfo();
     }
 }
+
